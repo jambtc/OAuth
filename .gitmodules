@@ -1,3 +1,6 @@
 [submodule "oauth-fb"]
 	path = oauth-fb
 	url = https://github.com/jambtc/oauth-fb.git
+[submodule "oauth-telegram"]
+	path = oauth-telegram
+	url = https://github.com/jambtc/oauth-telegram.git
