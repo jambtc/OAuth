@@ -4,3 +4,6 @@
 [submodule "oauth-telegram"]
 	path = oauth-telegram
 	url = https://github.com/jambtc/oauth-telegram.git
+[submodule "oauth-google"]
+	path = oauth-google
+	url = https://github.com/jambtc/oauth-google.git
